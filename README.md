@@ -13,26 +13,21 @@
 ## 🌟 **About Me**
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12&height=150&section=header&text=Hi,%20I'm%20Takasugi!&fontSize=30&fontColor=fff&animation=fadeIn" />
+</div>
 
-<table>
-<tr>
-<td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=flutter" width="100" height="100" alt="Flutter" />
-<br><strong>Flutter</strong>
-</td>
-<td width="400" align="left">
+<div align="center">
 
-### 👋 **Hi, I'm Takasugi!**
-🚀 **Flutter Developer** passionate about mobile development  
+🚀 **Flutter Developer** | 📱 **Mobile App Enthusiast**
 
-🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:** Building beautiful mobile applications  
-☕ **Powered by:** Coffee and curiosity  
-🎯 **Goal:** Creating amazing user experiences  
+<br>
 
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=flutter" width="80" height="80" alt="Flutter" style="border-radius: 50%" />
+
+<br><br>
+
+🌍 **Japan** 🇯🇵 • 💼 **Mobile Apps** • ☕ **Coffee Lover**  
+🎯 **Creating amazing user experiences**
 
 </div>
 
