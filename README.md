@@ -48,35 +48,34 @@
 
 ## 🛠️ **Tech Stack**
 
-### 📱 **Mobile Development**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart&perline=2" />
-</div>
+<table align="center">
+<tr>
+<td width="50%" align="center" valign="top">
 
 ### 💻 **Languages & Frameworks**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,html,css&perline=2" />
-</div>
+<img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,html,css" />
 
 ### 🗄️ **Database**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,sqlite&perline=2" />
-</div>
-
-### ☁️ **Backend as a Service (BaaS)**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=supabase,firebase&perline=2" />
-</div>
+<img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
 
 ### 🎨 **Design**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=figma" />
-</div>
+<img src="https://skillicons.dev/icons?i=figma" />
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### 📱 **Mobile Development**
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+
+### ☁️ **Backend as a Service (BaaS)**
+<img src="https://skillicons.dev/icons?i=supabase,firebase" />
 
 ### 🔧 **Development Tools**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman&perline=2" />
-</div>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+
+</td>
+</tr>
+</table>
 
 ## 🏆 **GitHub Trophies (Commits)**
 
