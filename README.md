@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&animation=twinkling" />
 </div>
 
 <div align="center">
@@ -102,11 +102,6 @@ void main() {
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" height="50" width="200" />
   </a>
-  
-  <br><br>
-  
-  <img src="https://komarev.com/ghpvc/?username=tks-00&style=for-the-badge&color=brightgreen" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/tks-00?style=for-the-badge&color=blue&labelColor=blue" alt="Followers" />
   
   <br><br>
   
