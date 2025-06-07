@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Takasugi+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Takasugi+%F0%9F%91%8B;Flutter+Developer+%F0%9F%9A%80;Mobile+App+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -12,28 +12,44 @@
 
 ## 🌟 **About Me**
 
-```typescript
-interface Developer {
-  name: string;
-  role: string;
-  location: string;
-  languages: string[];
-  frameworks: string[];
-  databases: string[];
-  currentFocus: string;
-  hobbies: string[];
+```dart
+class Developer {
+  final String name;
+  final String role;
+  final String location;
+  final List<String> languages;
+  final List<String> frameworks;
+  final List<String> databases;
+  final String currentFocus;
+  final List<String> hobbies;
+
+  const Developer({
+    required this.name,
+    required this.role,
+    required this.location,
+    required this.languages,
+    required this.frameworks,
+    required this.databases,
+    required this.currentFocus,
+    required this.hobbies,
+  });
 }
 
-const takasugi: Developer = {
+const takasugi = Developer(
   name: "Takasugi",
-  role: "Full Stack Developer",
+  role: "Flutter Developer",
   location: "Japan 🇯🇵",
-  languages: ["JavaScript", "TypeScript", "Python", "Go"],
-  frameworks: ["React", "Next.js", "Node.js", "Express"],
-  databases: ["MongoDB", "PostgreSQL", "Redis"],
-  currentFocus: "Building scalable web applications",
-  hobbies: ["Coding", "Reading", "Gaming", "Coffee ☕"]
-};
+  languages: ["Dart", "JavaScript", "TypeScript", "Python"],
+  frameworks: ["Flutter", "React", "Next.js", "Node.js"],
+  databases: ["Firebase", "MongoDB", "PostgreSQL"],
+  currentFocus: "Building beautiful mobile applications",
+  hobbies: ["Coding", "Mobile Development", "UI/UX Design", "Coffee ☕"]
+);
+
+void main() {
+  print('Hello, I\'m ${takasugi.name}!');
+  print('Welcome to my GitHub profile! 🚀');
+}
 ```
 
 <div align="center">
@@ -52,7 +68,7 @@ const takasugi: Developer = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tks-00&custom_title=Takasugi's%20GitHub%20Activity%20Graph&bg_color=transparent&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tks-00&custom_title=Takasugi's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
 </div>
 
 ## 🛠️ **Tech Stack**
@@ -69,19 +85,13 @@ const takasugi: Developer = {
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,nextjs,express,mongodb,postgresql,redis,docker,aws,git,github,vscode,figma&perline=8" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,js,ts,react,nodejs,python,nextjs,mongodb,postgresql,docker,git,github,vscode,figma&perline=8" />
 </div>
 
-## 🏆 **GitHub Trophies**
+## 🏆 **GitHub Trophies (Commits)**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tks-00&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7" />
-</div>
-
-## 🐍 **Contribution Snake**
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tks-00/tks-00/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tks-00&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits" />
 </div>
 
 ## 💫 **Connect with Me**
@@ -121,5 +131,5 @@ const takasugi: Developer = {
   
   **⭐ From [tks-00](https://github.com/tks-00) with ❤️**
   
-  *"Code is like humor. When you have to explain it, it's bad."*
+  *"Flutter makes everything beautiful! 🦋"*
 </div>
