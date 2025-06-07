@@ -12,48 +12,45 @@
 
 ## 🌟 **About Me**
 
-```dart
-class Developer {
-  final String name;
-  final String role;
-  final String location;
-  final List<String> languages;
-  final List<String> frameworks;
-  final List<String> databases;
-  final String currentFocus;
-  final List<String> hobbies;
+<div align="center">
 
-  const Developer({
-    required this.name,
-    required this.role,
-    required this.location,
-    required this.languages,
-    required this.frameworks,
-    required this.databases,
-    required this.currentFocus,
-    required this.hobbies,
-  });
-}
+👋 **Hi, I'm Takasugi!**  
+🚀 **Flutter Developer** | 📱 **Mobile App Enthusiast**
 
-const takasugi = Developer(
-  name: "Takasugi",
-  role: "Flutter Developer",
-  location: "Japan 🇯🇵",
-  languages: ["Dart", "JavaScript", "TypeScript", "Python"],
-  frameworks: ["Flutter", "React", "Next.js", "Node.js"],
-  databases: ["Firebase", "MongoDB", "PostgreSQL"],
-  currentFocus: "Building beautiful mobile applications",
-  hobbies: ["Coding", "Mobile Development", "UI/UX Design", "Coffee ☕"]
-);
+</div>
 
-void main() {
-  print('Hello, I\'m ${takasugi.name}!');
-  print('Welcome to my GitHub profile! 🚀');
-}
-```
+<table align="center">
+<tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
+  <br>Dart
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+  <br>Flutter
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+  <br>Firebase
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+  <br>JavaScript
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+  <br>TypeScript
+</td>
+</tr>
+</table>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+🌍 **Location:** Japan 🇯🇵  
+💼 **Focus:** Building beautiful mobile applications  
+☕ **Powered by:** Coffee and curiosity  
+🎯 **Goal:** Creating amazing user experiences  
+
 </div>
 
 ## 📊 **GitHub Analytics**
