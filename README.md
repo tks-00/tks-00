@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=TAKASUGI&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&animation=twinkling" />
 </div>
 
 <div align="center">
@@ -94,26 +94,23 @@ void main() {
   <img src="https://github-profile-trophy.vercel.app/?username=tks-00&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits" />
 </div>
 
-## 💫 **Connect with Me**
+## 📬 **Get In Touch**
 
 <div align="center">
+  <h3>💌 Feel free to reach out!</h3>
+  
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" height="50" width="200" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/your-discord" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tks-00&style=for-the-badge&color=orange" alt="views" />
-  <img src="https://img.shields.io/github/followers/tks-00?style=for-the-badge&color=orange" alt="followers" />
+  
+  <br><br>
+  
+  <img src="https://komarev.com/ghpvc/?username=tks-00&style=for-the-badge&color=brightgreen" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/tks-00?style=for-the-badge&color=blue&labelColor=blue" alt="Followers" />
+  
+  <br><br>
+  
+  <h4>🤝 "Let's build something amazing together!"</h4>
 </div>
 
 ## 💭 **Random Dev Quote**
