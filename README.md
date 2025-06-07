@@ -13,22 +13,21 @@
 ## 🌟 **About Me**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Flutter+Developer+from+Japan+%F0%9F%87%AF%F0%9F%87%B5;Mobile+App+Enthusiast+%F0%9F%93%B1;UI%2FUX+Design+Lover+%E2%9C%A8;Coffee+Powered+Developer+%E2%98%95" alt="About Me" />
-</div>
+  
+**Takasugi** • Flutter Developer • Japan 🇯🇵
 
-<div align="center">
+*Building beautiful mobile applications one widget at a time*
 
-### 🚀 **What I Do**
+---
 
-| 📱 **Mobile Development** | 🎨 **UI/UX Design** | ☁️ **Backend Services** |
-|:---:|:---:|:---:|
-| Flutter & Dart | Beautiful interfaces | Firebase & APIs |
-| Cross-platform apps | User experience | Cloud solutions |
+**🎯 Specializing in:** Mobile app development with Flutter  
+**🔧 Working with:** Dart, Firebase, JavaScript, TypeScript  
+**🌱 Learning:** Advanced Flutter patterns and performance optimization  
+**☕ Fueled by:** Coffee, curiosity, and clean code  
 
-### 🌱 **Currently Learning**
-![Learning](https://img.shields.io/badge/🌟_Currently_Learning-Advanced_Flutter_Patterns-blue?style=for-the-badge)
-![Focus](https://img.shields.io/badge/🎯_Focus-Mobile_Performance-green?style=for-the-badge)
-![Goal](https://img.shields.io/badge/💡_Goal-Better_UX-orange?style=for-the-badge)
+---
+
+> *"The best mobile apps feel like magic – simple, intuitive, and delightful."*
 
 </div>
 
