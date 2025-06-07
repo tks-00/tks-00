@@ -48,19 +48,34 @@
 
 ## 🛠️ **Tech Stack**
 
+### 📱 **Mobile Development**
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0d95394.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100">
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
 </div>
 
+### 💻 **Languages & Frameworks**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,js,ts,react,nodejs,python,nextjs,mongodb,postgresql,docker,git,github,vscode,figma&perline=8" />
+  <img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,html,css" />
+</div>
+
+### 🗄️ **Database**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
+</div>
+
+### ☁️ **Backend as a Service (BaaS)**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=supabase,firebase" />
+</div>
+
+### 🎨 **Design**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=figma" />
+</div>
+
+### 🔧 **Development Tools**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
 </div>
 
 ## 🏆 **GitHub Trophies (Commits)**
