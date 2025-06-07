@@ -59,11 +59,6 @@ void main() {
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=tks-00&show_icons=true&theme=transparent&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tks-00&layout=compact&theme=transparent&border_radius=10&langs_count=8" alt="readme stats" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tks-00&theme=transparent&border_radius=10" alt="readme streak stats" />
 </div>
 
