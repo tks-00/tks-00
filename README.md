@@ -16,16 +16,19 @@
 
 <table>
 <tr>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" height="100">
+<td width="200" align="center">
+<img src="https://skillicons.dev/icons?i=flutter" width="100" height="100" alt="Flutter" />
+<br><strong>Flutter</strong>
+</td>
+<td width="400" align="left">
 
 ### 👋 **Hi, I'm Takasugi!**
-🚀 **Flutter Developer** | 📱 **Mobile App Enthusiast**
+🚀 **Flutter Developer** passionate about mobile development  
 
-<img src="https://skillicons.dev/icons?i=flutter" width="80" height="80" alt="Flutter" />
-
-🌍 **Japan** 🇯🇵 | 💼 **Mobile Apps** | ☕ **Coffee Lover**  
-🎯 **Creating amazing user experiences**
+🌍 **Location:** Japan 🇯🇵  
+💼 **Focus:** Building beautiful mobile applications  
+☕ **Powered by:** Coffee and curiosity  
+🎯 **Goal:** Creating amazing user experiences  
 
 </td>
 </tr>
