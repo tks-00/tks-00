@@ -14,18 +14,25 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi,+I'm+Takasugi!+👋;Flutter+Developer+🚀;Mobile+App+Enthusiast+📱" />
+<table>
+<tr>
+<td width="200" align="center">
+<img src="https://skillicons.dev/icons?i=flutter" width="100" height="100" alt="Flutter" />
+<br><strong>Flutter</strong>
+</td>
+<td width="400" align="left">
 
-<br>
+### 👋 **Hi, I'm Takasugi!**
+🚀 **Flutter Developer** passionate about mobile development  
 
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60">
-<img src="https://skillicons.dev/icons?i=flutter" width="80" height="80" alt="Flutter" />
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60">
+🌍 **Location:** Japan 🇯🇵  
+💼 **Focus:** Building beautiful mobile applications  
+☕ **Powered by:** Coffee and curiosity  
+🎯 **Goal:** Creating amazing user experiences  
 
-<br><br>
-
-🌍 **Japan** 🇯🇵 • 💼 **Building beautiful mobile applications**  
-☕ **Coffee and curiosity** • 🎯 **Creating amazing user experiences**
+</td>
+</tr>
+</table>
 
 </div>
 
