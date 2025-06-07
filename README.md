@@ -68,7 +68,7 @@
 <img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
 
 ### 🎨 **Design**
-<img src="https://skillicons.dev/icons?i=figma,xd,canva,photoshop" />
+<img src="https://skillicons.dev/icons?i=figma,xd,photoshop" />
 
 ### 💻 **Languages & Frameworks**
 <img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,html,css" />
