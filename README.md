@@ -52,18 +52,6 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 💻 **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,html,css" />
-
-### 🗄️ **Database**
-<img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
-
-### 🎨 **Design**
-<img src="https://skillicons.dev/icons?i=figma" />
-
-</td>
-<td width="50%" align="center" valign="top">
-
 ### 📱 **Mobile Development**
 <img src="https://skillicons.dev/icons?i=flutter,dart" />
 
@@ -72,6 +60,18 @@
 
 ### 🔧 **Development Tools**
 <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### 🗄️ **Database**
+<img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
+
+### 🎨 **Design**
+<img src="https://skillicons.dev/icons?i=figma,xd,canva,photoshop" />
+
+### 💻 **Languages & Frameworks**
+<img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,html,css" />
 
 </td>
 </tr>
