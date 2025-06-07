@@ -13,21 +13,23 @@
 ## 🌟 **About Me**
 
 <div align="center">
-  
-**Takasugi** • Flutter Developer • Japan 🇯🇵
 
-*Building beautiful mobile applications one widget at a time*
+👋 **Hi, I'm Takasugi!**  
+🚀 **Flutter Developer** | 📱 **Mobile App Enthusiast**
 
----
+</div>
 
-**🎯 Specializing in:** Mobile app development with Flutter  
-**🔧 Working with:** Dart, Firebase, JavaScript, TypeScript  
-**🌱 Learning:** Advanced Flutter patterns and performance optimization  
-**☕ Fueled by:** Coffee, curiosity, and clean code  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter" width="64" height="64" alt="Flutter" />
+  <br><strong>Flutter</strong>
+</div>
 
----
+<div align="center">
 
-> *"The best mobile apps feel like magic – simple, intuitive, and delightful."*
+🌍 **Location:** Japan 🇯🇵  
+💼 **Focus:** Building beautiful mobile applications  
+☕ **Powered by:** Coffee and curiosity  
+🎯 **Goal:** Creating amazing user experiences  
 
 </div>
 
