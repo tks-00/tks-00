@@ -14,22 +14,22 @@
 
 <div align="center">
 
-👋 **Hi, I'm Takasugi!**  
+<table>
+<tr>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" height="100">
+
+### 👋 **Hi, I'm Takasugi!**
 🚀 **Flutter Developer** | 📱 **Mobile App Enthusiast**
 
-</div>
+<img src="https://skillicons.dev/icons?i=flutter" width="80" height="80" alt="Flutter" />
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter" width="64" height="64" alt="Flutter" />
-  <br><strong>Flutter</strong>
-</div>
+🌍 **Japan** 🇯🇵 | 💼 **Mobile Apps** | ☕ **Coffee Lover**  
+🎯 **Creating amazing user experiences**
 
-<div align="center">
-
-🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:** Building beautiful mobile applications  
-☕ **Powered by:** Coffee and curiosity  
-🎯 **Goal:** Creating amazing user experiences  
+</td>
+</tr>
+</table>
 
 </div>
 
