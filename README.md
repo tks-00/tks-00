@@ -13,27 +13,22 @@
 ## 🌟 **About Me**
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Flutter+Developer+from+Japan+%F0%9F%87%AF%F0%9F%87%B5;Mobile+App+Enthusiast+%F0%9F%93%B1;UI%2FUX+Design+Lover+%E2%9C%A8;Coffee+Powered+Developer+%E2%98%95" alt="About Me" />
+</div>
 
-### 👋 Hello! I'm **Takasugi**
+<div align="center">
 
-🚀 **Flutter Developer** passionate about creating beautiful mobile applications  
-🌍 Based in **Japan** 🇯🇵  
-🔥 Love building apps with **Dart** and **Flutter**  
-☕ **Coffee** enthusiast and **code** lover  
+### 🚀 **What I Do**
 
----
+| 📱 **Mobile Development** | 🎨 **UI/UX Design** | ☁️ **Backend Services** |
+|:---:|:---:|:---:|
+| Flutter & Dart | Beautiful interfaces | Firebase & APIs |
+| Cross-platform apps | User experience | Cloud solutions |
 
-**💻 What I work with:**  
-📱 Flutter • 🎯 Dart • 🔥 Firebase • 🌐 JavaScript • ⚡ TypeScript
-
-**🎯 What I'm up to:**  
-🌱 Always learning new technologies  
-🔨 Building amazing mobile experiences  
-✨ Exploring UI/UX design principles  
-
----
-
-*"Flutter makes everything beautiful! 🦋"*
+### 🌱 **Currently Learning**
+![Learning](https://img.shields.io/badge/🌟_Currently_Learning-Advanced_Flutter_Patterns-blue?style=for-the-badge)
+![Focus](https://img.shields.io/badge/🎯_Focus-Mobile_Performance-green?style=for-the-badge)
+![Goal](https://img.shields.io/badge/💡_Goal-Better_UX-orange?style=for-the-badge)
 
 </div>
 
