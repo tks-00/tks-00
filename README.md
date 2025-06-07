@@ -14,42 +14,26 @@
 
 <div align="center">
 
-👋 **Hi, I'm Takasugi!**  
-🚀 **Flutter Developer** | 📱 **Mobile App Enthusiast**
+### 👋 Hello! I'm **Takasugi**
 
-</div>
+🚀 **Flutter Developer** passionate about creating beautiful mobile applications  
+🌍 Based in **Japan** 🇯🇵  
+🔥 Love building apps with **Dart** and **Flutter**  
+☕ **Coffee** enthusiast and **code** lover  
 
-<table align="center">
-<tr>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
-  <br>Dart
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
-  <br>Flutter
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-  <br>Firebase
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-  <br>JavaScript
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-  <br>TypeScript
-</td>
-</tr>
-</table>
+---
 
-<div align="center">
+**💻 What I work with:**  
+📱 Flutter • 🎯 Dart • 🔥 Firebase • 🌐 JavaScript • ⚡ TypeScript
 
-🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:** Building beautiful mobile applications  
-☕ **Powered by:** Coffee and curiosity  
-🎯 **Goal:** Creating amazing user experiences  
+**🎯 What I'm up to:**  
+🌱 Always learning new technologies  
+🔨 Building amazing mobile experiences  
+✨ Exploring UI/UX design principles  
+
+---
+
+*"Flutter makes everything beautiful! 🦋"*
 
 </div>
 
